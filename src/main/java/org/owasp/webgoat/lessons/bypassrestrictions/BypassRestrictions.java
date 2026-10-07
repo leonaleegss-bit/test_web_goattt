@@ -1,6 +1,6 @@
 /*
  * SPDX-FileCopyrightText: Copyright © 2014 WebGoat authors
- * SPDX-License-Identifier: GPL-2.0-or-later  1111
+ * SPDX-License-Identifier: GPL-2.0-or-later  1
  */
 package org.owasp.webgoat.lessons.bypassrestrictions;
 
